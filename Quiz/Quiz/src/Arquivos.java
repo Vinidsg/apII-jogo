@@ -11,55 +11,55 @@ public class Arquivos {
 
 		switch (i) {
 		case 0:
-			Path path = Path.of("C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\perguntas\\1-pergunta.txt");
+			Path path = Path.of("../perguntas/1-pergunta.txt");
 			String conteudo = Files.readString(path, StandardCharsets.ISO_8859_1);
 			System.out.println(conteudo);
 			break;
-		/*case 1:
-			path = Path.of("./perguntas/2-pergunta.txt");
+		case 1:
+			path = Path.of("../perguntas/2-pergunta.txt");
 			conteudo = Files.readString(path, StandardCharsets.ISO_8859_1);
 			System.out.println(conteudo);
 			break;
 		case 2:
-			path = Path.of("./perguntas/3-pergunta.txt");
+			path = Path.of("../perguntas/3-pergunta.txt");
 			conteudo = Files.readString(path, StandardCharsets.ISO_8859_1);
 			System.out.println(conteudo);	
 			break;
 		case 3:
-			path = Path.of("./perguntas/4-pergunta.txt");
+			path = Path.of("../perguntas/4-pergunta.txt");
 			conteudo = Files.readString(path, StandardCharsets.ISO_8859_1);
 			System.out.println(conteudo);
 			break;
 		case 4:
-			path = Path.of("./perguntas/5-pergunta.txt");
+			path = Path.of("../perguntas/5-pergunta.txt");
 			conteudo = Files.readString(path, StandardCharsets.ISO_8859_1);
 			System.out.println(conteudo);
 			break;
 		case 5:
-			path = Path.of("./perguntas/6-pergunta.txt");
+			path = Path.of("../perguntas/6-pergunta.txt");
 			conteudo = Files.readString(path, StandardCharsets.ISO_8859_1);
 			System.out.println(conteudo);
 			break;
 		case 6:
-			path = Path.of("./perguntas/7-pergunta.txt");
+			path = Path.of("../perguntas/7-pergunta.txt");
 			conteudo = Files.readString(path, StandardCharsets.ISO_8859_1);
 			System.out.println(conteudo);
 			break;
 		case 7:
-			path = Path.of("./perguntas/8-pergunta.txt");
+			path = Path.of("../perguntas/8-pergunta.txt");
 			conteudo = Files.readString(path, StandardCharsets.ISO_8859_1);
 			System.out.println(conteudo);
 			break;
 		case 8:
-			path = Path.of("./perguntas/9-pergunta.txt");
+			path = Path.of("../perguntas/9-pergunta.txt");
 			conteudo = Files.readString(path, StandardCharsets.ISO_8859_1);
 			System.out.println(conteudo);
 			break;
 		case 9:
-			path = Path.of("./perguntas/10-pergunta.txt");  
+			path = Path.of("../perguntas/10-pergunta.txt");  
 			conteudo = Files.readString(path, StandardCharsets.ISO_8859_1);
 			System.out.println(conteudo);
-			break;*/
+			break;
 		}
 	}
 
@@ -78,7 +78,5 @@ public class Arquivos {
 		} else {
 
 		}
-
 	}
-
 }

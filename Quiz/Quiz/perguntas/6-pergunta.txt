@@ -1,0 +1,6 @@
+6. Qual o grupo em que todas as palavras foram escritas corretamente?
+a) Asterístico, beneficiente, meteorologia, entertido
+b) Asterisco, beneficente, meteorologia, entretido
+c) Asterisco, beneficente, metereologia, entretido
+d) Asterístico, beneficiente, metereologia, entretido
+e) Asterisco, beneficiente, metereologia, entretido

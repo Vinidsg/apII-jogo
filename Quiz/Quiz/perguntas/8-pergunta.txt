@@ -1,0 +1,6 @@
+8. Quantas casas decimais tem o número pi?
+a) Duas
+b) Centenas
+c) Infinitas
+d) Vinte
+e) Milhares
